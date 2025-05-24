@@ -1,0 +1,9 @@
+{
+  /*** GlobalExt Configuration ***/
+  "global_ext": {
+    "config_path": "",
+    // common
+    "config_sensors_ext": "config_sensors_ext.json",
+    "config_predictor": "config_predictor.json"
+  }
+}
